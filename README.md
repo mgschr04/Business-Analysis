@@ -7,4 +7,4 @@ The analysis focuses on three primary areas of concern: lack of transparency in 
 
 Using ethical frameworks such as virtue ethics, deontological ethics, and teleological ethics, this analysis highlights the responsibility of developers and healthcare providers to ensure secure, transparent, and responsible AI use. It emphasizes the need for stronger data transparency, enhanced privacy protections, and clear organizational policies.
 
-**View Here:** [Ethical Impact Assessment]([docs/ethical-impact-assessment.docx](https://docs.google.com/document/d/1kplJhrzOO5R2X1a1vll96MjU6HV8hdOk/edit?usp=sharing&ouid=114731647134946205321&rtpof=true&sd=true))
+**View Here:** [Ethical Impact Assessment](https://maddyschroth3300.wixsite.com/madalyn-schroth/s-projects-basic)
